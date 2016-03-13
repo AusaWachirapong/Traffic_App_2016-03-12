@@ -79,6 +79,9 @@ public class MainActivity extends AppCompatActivity {
         traffic_ListView.setAdapter(my_adapter);
 
 
+
+
+
     }   //Create ListView
 
 
